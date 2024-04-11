@@ -1,0 +1,2 @@
+const data = {"coord":{"lon":72.8479,"lat":19.0144},"weather":[{"id":711,"main":"Smoke","description":"smoke","icon":"50d"}],"base":"stations","main":{"temp":300.14,"feels_like":300.06,"temp_min":299.09,"temp_max":300.14,"pressure":1010,"humidity":41},"visibility":4000,"wind":{"speed":4.63,"deg":280},"clouds":{"all":75},"dt":1644054671,"sys":{"type":1,"id":9052,"country":"IN","sunrise":1644025296,"sunset":1644066214},"timezone":19800,"id":1275339,"name":"Mumbai","cod":200}
+export default data;

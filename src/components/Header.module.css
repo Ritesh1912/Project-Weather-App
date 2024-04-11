@@ -1,0 +1,39 @@
+.main_container{
+  /* background-color: red; */
+  width: 70vw;
+  margin: 20px auto 20px auto ;
+}
+.title img{
+  width: 20px;
+  /* height: 10px; */
+}
+.title span{
+  font-size: 1.2rem;
+  padding-left:.5rem ;
+}
+.temp{
+  display:  flex ;
+  justify-content: space-between;
+  flex-direction: row ;
+}
+.city{
+  margin-top: 2rem ;
+
+}
+.city h2{
+  font-size: 1rem;
+  font-weight: light;
+}
+.city p{
+  color: rgb(119, 119, 119);
+}
+.details{
+  display:  flex ;
+  justify-content: space-around;
+  flex-direction: row ;
+  text-align: center;
+  
+}
+.details p{
+  color: rgb(110, 104, 104);
+}
